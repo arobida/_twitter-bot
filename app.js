@@ -6,7 +6,9 @@ var T = new Twitter(config);
 
 // Set up your search parameters
 var params = {
-    q:'#node.js, express.js, react.js',
+    q:'#node.js',
+    q:'#express.js',
+    q:'#react.js',
     count:20,
     result_type:'recent',
     lang:'en'
