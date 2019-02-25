@@ -6,9 +6,7 @@ var T = new Twitter(config);
 
 // Set up your search parameters
 var params = {
-    q:'#sandiego software jobs',
-    q:'#software jobs san diego',
-    q:'#jobs san diego software',
+    q:'#javascript',
     count:20,
     result_type:'recent',
     lang:'en'
